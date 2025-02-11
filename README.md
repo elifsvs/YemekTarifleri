@@ -1,7 +1,9 @@
 # github-deneme
 [Lazanya Tarifi](./Lazanya Tarifi.md)
 
-lazanya-tarifi-videolu-anlatimi.webp
-
+</br>
+<div align="center">
+<img src="./images/künefe.jpg" alt="Künefe" width="350"/>  
+</div>
 
 İrmikli Muhallebi Tarifi 
