@@ -3,7 +3,7 @@
 
 </br>
 <div align="center">
-<img src="./images/künefe.jpg" alt="Künefe" width="350"/>  
+<img src="./images/image/lazanya-tarifi-videolu-anlatimi.webp"width="350"/>  
 </div>
 
 İrmikli Muhallebi Tarifi 
