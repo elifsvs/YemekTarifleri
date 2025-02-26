@@ -1,5 +1,5 @@
 # github-deneme
-[Lazanya Tarifi](./Lazanya Tarifi.md)
+[Lazanya Tarifi](./LazanyaTarifi.md)
 
 </br>
 <div align="center">
